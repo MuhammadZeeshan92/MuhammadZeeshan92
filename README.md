@@ -3,15 +3,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+I'm+Muhammad+Zeeshan;Full-Stack+Developer+%7C+MERN+%7C+Flutter;AI%2FML+Explorer+%7C+DevOps+Learner;I+Build+Scalable+Real+World+Apps" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadZeeshan92&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
 ---
 
 ## 👋 About Me
 
-💻 Computer Science student passionate about building real-world systems  
-🚀 Full-Stack Developer (MERN + Flutter)  
-🧠 Exploring AI/ML, Deep Learning, NLP  
-⚙️ Learning DevOps, Cloud, System Design  
-🔥 Focused on building production-level projects
+💻 BS Computer Science Student
+
+🚀 Full-Stack Developer specializing in MERN Stack and Flutter
+
+🧠 Interested in Artificial Intelligence, Machine Learning, Deep Learning and NLP
+
+⚙️ Learning DevOps, Cloud Computing, and System Design
+
+🔥 Passionate about building scalable, production-ready applications
 
 ---
 
@@ -59,7 +67,15 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=MuhammadZeeshan92&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadZeeshan92&theme=react-dark" />
 </p>
 
 ---
@@ -67,25 +83,28 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/muhammad-zeeshan-535408380/)">
+  <a href="https://www.linkedin.com/in/muhammad-zeeshan-535408380/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:muhammadzeeshanzakir7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://github.com/YOUR_USERNAME](https://github.com/MuhammadZeeshan92)">
+
+  <a href="https://github.com/MuhammadZeeshan92">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💡 Current Focus
+## 🎯 2026 Goals
 
-- 🚀 Building full-stack production apps  
-- 🤖 Practicing ML model training + evaluation  
-- ⚙️ Learning system design + scalable architecture  
-- ☁️ Exploring DevOps pipelines (CI/CD, Docker)
+- Build production-ready SaaS applications
+- Master System Design and Backend Architecture
+- Learn Kubernetes and Advanced DevOps
+- Deepen expertise in AI/ML
+- Contribute to Open Source
 
 ---
 
