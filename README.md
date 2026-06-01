@@ -55,15 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZeeshan92&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZeeshan92&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
